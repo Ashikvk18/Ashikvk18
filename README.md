@@ -9,7 +9,7 @@
 
 <br />
 
-<img width="90" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/harry-potter/harry-potter.png" alt="HP" />
+<img width="60" src="https://img.icons8.com/color/96/harry-potter.png" alt="HP" />
 
 <br />
 
@@ -119,13 +119,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashikvk18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=f59e0b&text_color=c9d1d9&ring_color=8b5cf6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ashikvk18&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280" alt="Streak Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashikvk18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=f59e0b&text_color=c9d1d9&ring_color=8b5cf6" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Ashikvk18&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280" alt="Streak Stats" />
 
 <br />
 <br />
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikvk18&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ashikvk18&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 <br />
 <br />
