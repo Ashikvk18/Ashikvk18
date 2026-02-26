@@ -17,7 +17,7 @@
 
 <br />
 
-<a href="https://portfolio-opal-rho-49.vercel.app/">
+<a href="https://ashik-portfolio-g7fz.onrender.com/">
   <img src="https://img.shields.io/badge/🔮_Portfolio-Enter_the_Wizarding_World-8b5cf6?style=for-the-badge&labelColor=1a0a2e" />
 </a>
 &nbsp;
@@ -178,8 +178,8 @@
 
 <br />
 
-<a href="https://portfolio-opal-rho-49.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-ashik.vercel.app-8b5cf6?style=for-the-badge&labelColor=1a0a2e" />
+<a href="https://ashik-portfolio-g7fz.onrender.com/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-ashik--portfolio.onrender.com-8b5cf6?style=for-the-badge&labelColor=1a0a2e" />
 </a>
 <a href="https://www.linkedin.com/in/ashik-dey-rupak-b71450241/">
   <img src="https://img.shields.io/badge/LinkedIn-Ashik_Dey_Rupak-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a0a2e" />
