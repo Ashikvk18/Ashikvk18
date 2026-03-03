@@ -13,11 +13,11 @@
   <pre>
 🎬🎭 *~* CINEMATIC EXPERIENCE *~* 🎭🎬
     ⭐ STARRING ⭐
-  � ASHIK DEY RUPAK
-    🎬 DIRECTED BY �
-  � CODING WIZARDRY
-    🎶 ORIGINAL SCORE �
-  � SYNTHWAVE SOUNDTRACK
+  🎯 ASHIK DEY RUPAK
+    🎬 DIRECTED BY 🎬
+  💻 CODING WIZARDRY
+    🎶 ORIGINAL SCORE 🎶
+  🎵 SYNTHWAVE SOUNDTRACK
     🏆 ACADEMY AWARD WINNER 🏆
   </pre>
 </div>
@@ -66,11 +66,6 @@
 
 <br />
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🪄 Wizarding Arsenal — Tech Stack
-
 <div align="center">
 
 #### ⚡ Languages
@@ -91,10 +86,8 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-FF0055?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-#### 🔮 Tools & Platforms
+#### 🛠️ Tools & Platforms
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -108,47 +101,8 @@
 
 <br />
 
-<div align="center">
-  <pre>
-�🎥 *~* VIDEO CINEMATIC EXPERIENCE *~* �🎬
-    📹 ROLLING CAMERA 📹
-  🎬 ACTION SEQUENCE 🎬
-    🎞️ FILM REEL SPINNING 🎞️
-  � 4K ULTRA HD 📺
-    🎨 CINEMATIC COLOR 🎨
-  🎬 DIRECTOR'S CUT 🎬
-    � BLOCKBUSTER TRAILER �
-  </pre>
-</div>
-
-<br />
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<div align="center">
-  <pre>
-�🤖 *~* CYBERPUNK 2077 *~* 🤖�
-  �⚡️�⚡️�⚡️🟡⚡️🔴⚡️
-  � NIGHT CITY DEVELOPER �
-  ⚡️ CHROME ENHANCEMENTS ⚡️
-  � NEON CODE DREAMS �
-  🔴⚡️🔵⚡️🟢⚡️🟡⚡️🔴⚡️
-  </pre>
-</div>
-
-<div align="center">
-  <pre>
-🎬📹 *~* FILM PRODUCTION HOUSE *~* 📹🎬
-    🎥 CAMERA OPERATOR 🎥
-  🎞️ EDITING SUITE 🎞️
-    🎨 COLOR GRADING 🎨
-  📺 CINEMA DISPLAY 📺
-    🎬 SOUND STAGE 🎬
-  🎶 DOLBY ATMOS 🎶
-    🏆 FILM FESTIVAL 🏆
-  </pre>
-</div>
 
 ## 🏆 Featured Enchantments — Projects
 
@@ -156,9 +110,9 @@
 
 | | Project | Description | Tech |
 |:-:|:--------|:------------|:-----|
-| �️ | [**Deep Packet Inspection**](https://github.com/Ashikvk18/DPI) | Network security tool with TLS SNI extraction, threat detection, bandwidth monitoring & real-time web dashboard | C++, Networking, Multithreading |
+|️ | [**Deep Packet Inspection**](https://github.com/Ashikvk18/DPI) | Network security tool with TLS SNI extraction, threat detection, bandwidth monitoring & real-time web dashboard | C++, Networking, Multithreading |
 | 🧠 | [**Scam Call Analysis**](https://github.com/Ashikvk18/scam-call-ml) | ML research analyzing scam patterns with Logistic Regression, TF-IDF NLP, Streamlit app & IEEE paper | Python, Scikit-learn, NLP, LaTeX |
-| �️ | [**Truman Rec Center AI**](https://github.com/Ashikvk18) | Full-stack platform with AI chatbot, fitness calculators & personalized workout generation | Flask, REST APIs, JWT, Anthropic API |
+|️ | [**Truman Rec Center AI**](https://github.com/Ashikvk18) | Full-stack platform with AI chatbot, fitness calculators & personalized workout generation | Flask, REST APIs, JWT, Anthropic API |
 | 🌿 | [**Green Pulse**](https://github.com/Ashikvk18) | AI plant disease detection with image analysis — *TigerHacks Hackers' Choice Award* 🏅 | Java, Spring Boot, Firebase |
 | ⚡ | [**Wizard's Portfolio**](https://github.com/Ashikvk18/portfolio) | Cinematic HP-themed portfolio with CGI canvas, video streaming, synthesized audio | Next.js, TypeScript, Canvas API |
 | 🌍 | [**Video Finder**](https://github.com/Ashikvk18/video-finder) | Comprehensive video search platform with 11,298 videos across 102 performers from 32+ platforms | React, Node.js, PostgreSQL, TypeScript |
@@ -170,7 +124,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## � The Pensieve — GitHub Stats
+## 🧠 The Pensieve — GitHub Stats
 
 <div align="center">
 
@@ -181,13 +135,11 @@
 <br />
 
 <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ashikvk18&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
 <br />
 <br />
 
 <!-- GitHub Activity Graph -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashikvk18&bg_color=0d1117&color=8b5cf6&line=f59e0b&point=8b5cf6&area_color=1a0a2e&area=true&hide_border=true&custom_title=⚡%20Contribution%20Timeline" alt="Activity Graph" />
-
 </div>
 
 <br />
@@ -217,7 +169,6 @@
 ## 🎵 Currently Listening To
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qhknkd6iqusm3lfadofbqbxk6m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&bar_color=8b5cf6&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 </div>
 
 <br />
@@ -230,7 +181,6 @@
 ## 🤝 Let's Connect
 
 *Open to collaborations, hackathons, and building magical things together.*
-
 <br />
 
 <a href="https://ashik-portfolio-g7fz.onrender.com/">
@@ -256,14 +206,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
   <pre>
-🦸‍♂️💥 *~* MARVEL CINEMATIC UNIVERSE *~* 💥🦸‍♂️
-    ⚡️ IRON MAN CODE ⚡️
-  🧬 HULK SMASH BUGS 🧬
-    🕸️ SPIDER-WEB DEV 🕸️
-  � GUARDIANS OF THE REPO �
-    💥 AVENGERS ASSEMBLE! 💥
-  🦸‍♂️ WITH GREAT CODE... 🦸‍♂️
-    � COMES GREAT RESPONSIBILITY �
+🌙✨ *~* Hogwarts Night Sky *~* ✨🌙
+⭐✨🌙⭐✨🌙⭐✨🌙⭐✨
+🏰✨🌙🏰✨🌙🏰✨🌙🏰
+⭐✨🌙⭐✨🌙⭐✨🌙⭐✨
+✨🌙 Magic in the Air ✨🌙
+🏰⭐✨🏰⭐✨🏰⭐✨🏰
   </pre>
 </div>
 
