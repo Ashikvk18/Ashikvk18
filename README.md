@@ -9,6 +9,17 @@
 
 <br />
 
+<div align="center">
+  <pre>
+🪄✨ *~* Welcome to My Magical GitHub *~* ✨🪄
+⚡️🏰⚡️ Hogwarts Castle Awaits ⚡️🏰⚡️
+✨🌟📚 Spell Books Ready ✨🌟📚✨
+🏆🦅 Golden Snitch Chase 🏆🦅
+  </pre>
+</div>
+
+<br />
+
 <img width="60" src="https://img.icons8.com/color/96/harry-potter.png" alt="HP" />
 
 <br />
@@ -96,6 +107,15 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<div align="center">
+  <pre>
+🏆✨ *~* Featured Enchantments *~* ✨🏆
+🪄🔮📚🏰⚡️🌟🦅🐍🦁🦡✨
+🎓 Sorting Hat Ceremony 🎓
+🏐 Quidditch Match Ready 🏐
+  </pre>
+</div>
+
 ## 🏆 Featured Enchantments — Projects
 
 <div align="center">
@@ -107,6 +127,7 @@
 | �️ | [**Truman Rec Center AI**](https://github.com/Ashikvk18) | Full-stack platform with AI chatbot, fitness calculators & personalized workout generation | Flask, REST APIs, JWT, Anthropic API |
 | 🌿 | [**Green Pulse**](https://github.com/Ashikvk18) | AI plant disease detection with image analysis — *TigerHacks Hackers' Choice Award* 🏅 | Java, Spring Boot, Firebase |
 | ⚡ | [**Wizard's Portfolio**](https://github.com/Ashikvk18/portfolio) | Cinematic HP-themed portfolio with CGI canvas, video streaming, synthesized audio | Next.js, TypeScript, Canvas API |
+| 🌍 | [**Video Finder**](https://github.com/Ashikvk18/video-finder) | Comprehensive video search platform with 11,298 videos across 102 performers from 32+ platforms | React, Node.js, PostgreSQL, TypeScript |
 
 </div>
 
@@ -199,6 +220,17 @@
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <pre>
+🌙✨ *~* Hogwarts Night Sky *~* ✨🌙
+⭐✨🌙⭐✨🌙⭐✨🌙⭐✨
+🏰✨🌙🏰✨🌙🏰✨🌙🏰
+⭐✨🌙⭐✨🌙⭐✨🌙⭐✨
+✨🌙 Magic in the Air ✨🌙
+🏰⭐✨🏰⭐✨🏰⭐✨🏰
+  </pre>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,25:8b5cf6,50:4a1942,75:2d1b69,100:1a0a2e&height=150&section=footer&text=⚡%20Mischief%20Managed%20⚡&fontSize=24&fontColor=f5f5f5&animation=fadeIn&fontAlignY=65&descColor=d4a574" alt="Footer" />
 
 <div align="center">
