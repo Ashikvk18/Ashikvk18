@@ -11,14 +11,14 @@
 
 <div align="center">
   <pre>
-🎬🎭 *~* CINEMATIC EXPERIENCE *~* 🎭🎬
-    ⭐ STARRING ⭐
+�🪄 *~* HOGWARTS GAMING EXPERIENCE *~* 🪄�
+    ⭐ PLAYER 1 ⭐
   🎯 ASHIK DEY RUPAK
-    🎬 DIRECTED BY 🎬
-  💻 CODING WIZARDRY
-    🎶 ORIGINAL SCORE 🎶
-  🎵 SYNTHWAVE SOUNDTRACK
-    🏆 ACADEMY AWARD WINNER 🏆
+    � GAME DEVELOPER �
+  💻 CODE WIZARDRY
+    🎶 MAGICAL SOUNDTRACK 🎶
+  � HOUSE CUP WINNER 🏆
+    🪄 LEVEL 100 WIZARD 🪄
   </pre>
 </div>
 
@@ -104,6 +104,19 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<div align="center">
+  <pre>
+🏐⚡️ *~* QUIDDITCH WORLD CUP *~* ⚡️🏐
+    🧹⚡️ SEEKER CATCHES SNITCH ⚡️🧹
+  🏆 GRYFFINDOR WINS 🏆
+    🦅 GOLDEN SNITCH FLIES 🦅
+  🧹⚡️ BROOMSTICK RACING 🧹⚡️
+    🏐 HOUSE CUP VICTORY 🏐
+  ⚡️ 150 POINTS WINNER ⚡️
+    🦅 CATCH ME IF YOU CAN 🦅
+  </pre>
+</div>
+
 ## 🏆 Featured Enchantments — Projects
 
 <div align="center">
@@ -123,6 +136,19 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<div align="center">
+  <pre>
+🪄✨ *~* MAGICAL SPELL CASTING *~* ✨🪄
+    ✨ LUMOS MAXIMA ✨
+  🪄 WINGARDIUM LEVIOSA 🪄
+    ⚡️ EXPECTO PATRONUM ⚡️
+  🔮 ACCIO FIREBOLT 🔮
+    🪄 REPARO MAXIMA 🪄
+    ✨ PROTEGO TOTALUM ✨
+    🪄 HARRY POTTER SPELLS 🪄
+  </pre>
+</div>
 
 ## 🧠 The Pensieve — GitHub Stats
 
@@ -146,6 +172,19 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<div align="center">
+  <pre>
+♟️🏰 *~* WIZARD'S CHESS BATTLE *~* ♟️🏰
+    ♟️ KING TO E8 ♟️
+  🏰 QUEEN TAKES ROOK 🏰
+    ♟️ CHECKMATE IN 3 ♟️
+  🧙 RON'S BRILLIANT MOVE 🧙
+    ♟️ HARRY STRATEGIZES ♟️
+  🏰 CHESS MASTER WINS 🏰
+    ♟️ WIZARD CHESS CHAMPION ♟️
+  </pre>
+</div>
 
 ## 🐍 The Chamber — Contribution Snake
 
@@ -206,12 +245,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
   <pre>
-🌙✨ *~* Hogwarts Night Sky *~* ✨🌙
-⭐✨🌙⭐✨🌙⭐✨🌙⭐✨
-🏰✨🌙🏰✨🌙🏰✨🌙🏰
-⭐✨🌙⭐✨🌙⭐✨🌙⭐✨
-✨🌙 Magic in the Air ✨🌙
-🏰⭐✨🏰⭐✨🏰⭐✨🏰
+�🔥 *~* TRIWIZARD TOURNAMENT *~* 🔥�
+    � GRYFFINDOR CHAMPION �
+  🔥 DRAGON CHALLENGE 🔥
+    � HARRY POTTER WINS �
+  🔥 CEDRIC'S BRAVERY 🔥
+    � TRIWIZARD CUP �
+  🔥 MAGICAL TRIALS 🔥
+    � HOGWARTS VICTORY �
   </pre>
 </div>
 
