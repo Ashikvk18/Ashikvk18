@@ -110,12 +110,14 @@
 
 <div align="center">
   <pre>
-🌐💻🟢 *~* MATRIX DIGITAL RAIN *~* 🟢💻🌐
-  01110100 01110010 01100001 01101110
-  01110011 01100110 01101111 01110010
-  01101101 01100001 01110100 01101001
-  🟢 FOLLOW THE WHITE RABBIT 🟢
-  💻 DIGITAL DREAMS 💻
+�🎥 *~* VIDEO CINEMATIC EXPERIENCE *~* �🎬
+    📹 ROLLING CAMERA 📹
+  🎬 ACTION SEQUENCE 🎬
+    🎞️ FILM REEL SPINNING 🎞️
+  � 4K ULTRA HD 📺
+    🎨 CINEMATIC COLOR 🎨
+  🎬 DIRECTOR'S CUT 🎬
+    � BLOCKBUSTER TRAILER �
   </pre>
 </div>
 
@@ -132,6 +134,19 @@
   ⚡️ CHROME ENHANCEMENTS ⚡️
   � NEON CODE DREAMS �
   🔴⚡️🔵⚡️🟢⚡️🟡⚡️🔴⚡️
+  </pre>
+</div>
+
+<div align="center">
+  <pre>
+🎬📹 *~* FILM PRODUCTION HOUSE *~* 📹🎬
+    🎥 CAMERA OPERATOR 🎥
+  🎞️ EDITING SUITE 🎞️
+    🎨 COLOR GRADING 🎨
+  📺 CINEMA DISPLAY 📺
+    🎬 SOUND STAGE 🎬
+  🎶 DOLBY ATMOS 🎶
+    🏆 FILM FESTIVAL 🏆
   </pre>
 </div>
 
