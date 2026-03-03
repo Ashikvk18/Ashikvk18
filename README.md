@@ -11,10 +11,14 @@
 
 <div align="center">
   <pre>
-🪄✨ *~* Welcome to My Magical GitHub *~* ✨🪄
-⚡️🏰⚡️ Hogwarts Castle Awaits ⚡️🏰⚡️
-✨🌟📚 Spell Books Ready ✨🌟📚✨
-🏆🦅 Golden Snitch Chase 🏆🦅
+🎬🎭 *~* CINEMATIC EXPERIENCE *~* 🎭🎬
+    ⭐ STARRING ⭐
+  � ASHIK DEY RUPAK
+    🎬 DIRECTED BY �
+  � CODING WIZARDRY
+    🎶 ORIGINAL SCORE �
+  � SYNTHWAVE SOUNDTRACK
+    🏆 ACADEMY AWARD WINNER 🏆
   </pre>
 </div>
 
@@ -104,15 +108,30 @@
 
 <br />
 
+<div align="center">
+  <pre>
+🌐💻🟢 *~* MATRIX DIGITAL RAIN *~* 🟢💻🌐
+  01110100 01110010 01100001 01101110
+  01110011 01100110 01101111 01110010
+  01101101 01100001 01110100 01101001
+  🟢 FOLLOW THE WHITE RABBIT 🟢
+  💻 DIGITAL DREAMS 💻
+  </pre>
+</div>
+
+<br />
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
   <pre>
-🏆✨ *~* Featured Enchantments *~* ✨🏆
-🪄🔮📚🏰⚡️🌟🦅🐍🦁🦡✨
-🎓 Sorting Hat Ceremony 🎓
-🏐 Quidditch Match Ready 🏐
+�🤖 *~* CYBERPUNK 2077 *~* 🤖�
+  �⚡️�⚡️�⚡️🟡⚡️🔴⚡️
+  � NIGHT CITY DEVELOPER �
+  ⚡️ CHROME ENHANCEMENTS ⚡️
+  � NEON CODE DREAMS �
+  🔴⚡️🔵⚡️🟢⚡️🟡⚡️🔴⚡️
   </pre>
 </div>
 
@@ -222,12 +241,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
   <pre>
-🌙✨ *~* Hogwarts Night Sky *~* ✨🌙
-⭐✨🌙⭐✨🌙⭐✨🌙⭐✨
-🏰✨🌙🏰✨🌙🏰✨🌙🏰
-⭐✨🌙⭐✨🌙⭐✨🌙⭐✨
-✨🌙 Magic in the Air ✨🌙
-🏰⭐✨🏰⭐✨🏰⭐✨🏰
+🦸‍♂️💥 *~* MARVEL CINEMATIC UNIVERSE *~* 💥🦸‍♂️
+    ⚡️ IRON MAN CODE ⚡️
+  🧬 HULK SMASH BUGS 🧬
+    🕸️ SPIDER-WEB DEV 🕸️
+  � GUARDIANS OF THE REPO �
+    💥 AVENGERS ASSEMBLE! 💥
+  🦸‍♂️ WITH GREAT CODE... 🦸‍♂️
+    � COMES GREAT RESPONSIBILITY �
   </pre>
 </div>
 
