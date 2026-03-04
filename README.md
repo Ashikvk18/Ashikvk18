@@ -107,8 +107,24 @@
   </pre>
 </div>
 
-<!-- ⚡ Animated GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Ashikvk18&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%" />
+<!-- ⚡ Achievement Showcase -->
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashikvk18&show=reviews,prs_merged,prs_merged_percentage&theme=discord&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=f59e0b&text_color=c9d1d9&ring_color=8b5cf6" alt="Achievement Stats" width="100%" />
+
+<br />
+
+<a href="https://github.com/Ashikvk18">
+  <img src="https://img.shields.io/github/followers/Ashikvk18?style=social&label=Followers&maxAge=2592000" alt="Followers" />
+</a>
+<a href="https://github.com/Ashikvk18">
+  <img src="https://img.shields.io/github/stars/Ashikvk18?style=social&label=Stars&maxAge=2592000" alt="Stars" />
+</a>
+<a href="https://github.com/Ashikvk18">
+  <img src="https://img.shields.io/github/watchers/Ashikvk18?style=social&label=Watchers&maxAge=2592000" alt="Watchers" />
+</a>
+
+</div>
 
 </div>
 
