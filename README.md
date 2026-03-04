@@ -25,10 +25,15 @@
 <br />
 
 <img width="60" src="https://img.icons8.com/color/96/harry-potter.png" alt="HP" />
+&nbsp;&nbsp;
+<img width="50" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub Octocat" />
 
 <br />
 
-### *"I solemnly swear that I am up to no good."*
+<!-- ⚡ Animated typing effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9C%A8+I+solemnly+swear+that+I+am+up+to+no+good.;%F0%9F%AA%84+Mischief+Managed+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
 <br />
 
@@ -56,6 +61,8 @@
 
 ## 🗺️ The Marauder's Map — About Me
 
+<img align="right" width="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding wizard" />
+
 ```
 🏰 Computer Science student at Truman State University (Class of 2026)
 🪄 Full-Stack Developer who builds things that feel like magic
@@ -68,34 +75,17 @@
 
 <div align="center">
 
-#### ⚡ Languages
+#### ⚡ Languages — *Spell Incantations*
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,java,kotlin,mysql&theme=dark" alt="Languages" /></a>
 
-#### 🏰 Frameworks & Libraries
+#### 🏰 Frameworks & Libraries — *Enchanted Artifacts*
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-FF0055?style=for-the-badge&logo=framer&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,flask,spring,tailwind,nodejs,express&theme=dark" alt="Frameworks" /></a>
 
-#### 🛠️ Tools & Platforms
+#### 🛠️ Tools & Platforms — *Wizard's Workshop*
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,docker,linux,postgres&theme=dark" alt="Tools" /></a>
 
 </div>
 
@@ -116,6 +106,13 @@
     🦅 CATCH ME IF YOU CAN 🦅
   </pre>
 </div>
+
+<!-- ⚡ Animated GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Ashikvk18&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%" />
+
+</div>
+
+<br />
 
 ## 🏆 Featured Enchantments — Projects
 
@@ -154,8 +151,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashikvk18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=f59e0b&text_color=c9d1d9&ring_color=8b5cf6" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Ashikvk18&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280" alt="Streak Stats" />
+<!-- Animated stat cards with hover glow effect -->
+<a href="https://github.com/Ashikvk18">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashikvk18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=f59e0b&text_color=c9d1d9&ring_color=8b5cf6" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Ashikvk18">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Ashikvk18&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280" alt="Streak Stats" />
+</a>
 
 <br />
 <br />
@@ -166,6 +168,12 @@
 
 <!-- GitHub Activity Graph -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashikvk18&bg_color=0d1117&color=8b5cf6&line=f59e0b&point=8b5cf6&area_color=1a0a2e&area=true&hide_border=true&custom_title=⚡%20Contribution%20Timeline" alt="Activity Graph" />
+
+<br />
+
+<!-- 3D Contribution Calendar -->
+<img src="https://raw.githubusercontent.com/Ashikvk18/Ashikvk18/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="95%" />
+
 </div>
 
 <br />
@@ -260,6 +268,6 @@
 
 <div align="center">
 
-*"After all this time?" — "Always."*
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
