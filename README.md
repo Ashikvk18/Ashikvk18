@@ -142,7 +142,7 @@
 | 🌿 | [**Green Pulse**](https://github.com/Ashikvk18) | AI plant disease detection with image analysis — *TigerHacks Hackers' Choice Award* 🏅 | Java, Spring Boot, Firebase |
 | ⚡ | [**Wizard's Portfolio**](https://github.com/Ashikvk18/portfolio) | Cinematic HP-themed portfolio with CGI canvas, video streaming, synthesized audio | Next.js, TypeScript, Canvas API |
 | 🏰 | [**AirChess**](https://github.com/Ashikvk18/AirChess) | Revolutionary hand gesture chess game with MediaPipe computer vision, real-time piece control, AI opponent, and 6 beautiful themes | Python, OpenCV, MediaPipe, Computer Vision |
-| 📚 | [**NeetCode**](https://github.com/Ashikvk18/NeetCode) | Comprehensive LeetCode solutions with detailed explanations, multiple approaches, and optimized algorithms for interview preparation | Python, Algorithms, Data Structures, Interview Prep |
+| 📚 | [**Neetcode-150-By-me**](https://github.com/Ashikvk18/Neetcode-150-By-me) | Complete NeetCode 150 challenge solutions with detailed explanations, multiple approaches, and optimized algorithms for interview preparation | Python, Algorithms, Data Structures, Interview Prep |
 
 </div>
 
