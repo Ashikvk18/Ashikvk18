@@ -52,6 +52,8 @@
 <br />
 <br />
 
+<img src="https://komarev.com/ghpvc/?username=Ashikvk18&style=for-the-badge&color=8b5cf6&label=22+REPOSITORIES&labelColor=1a0a2e" alt="Repositories" />
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Ashikvk18&style=for-the-badge&color=8b5cf6&label=PROFILE+VISITORS" alt="Profile Views" />
 
 </div>
@@ -77,15 +79,15 @@
 
 #### ⚡ Languages — *Spell Incantations*
 
-<a href="#"><img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,java,kotlin,mysql&theme=dark" alt="Languages" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,java,kotlin,html,css&theme=dark" alt="Languages" /></a>
 
 #### 🏰 Frameworks & Libraries — *Enchanted Artifacts*
 
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,flask,spring,tailwind,nodejs,express&theme=dark" alt="Frameworks" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,flask,spring,tailwind,nodejs,express,opencv,mediapipe&theme=dark" alt="Frameworks" /></a>
 
 #### 🛠️ Tools & Platforms — *Wizard's Workshop*
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,docker,linux,postgres&theme=dark" alt="Tools" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,docker,linux,postgres,mysql&theme=dark" alt="Tools" /></a>
 
 </div>
 
@@ -143,6 +145,10 @@
 | ⚡ | [**Wizard's Portfolio**](https://github.com/Ashikvk18/portfolio) | Cinematic HP-themed portfolio with CGI canvas, video streaming, synthesized audio | Next.js, TypeScript, Canvas API |
 | 🌍 | [**Video Finder**](https://github.com/Ashikvk18/video-finder) | Comprehensive video search platform with 11,298 videos across 102 performers from 32+ platforms | React, Node.js, PostgreSQL, TypeScript |
 | 🚀 | [**NeetCode 150 - Google SWE Journey**](https://github.com/Ashikvk18/Neetcode-150-By-me) | My comprehensive journey through NeetCode 150 problems - 6/150 completed with detailed learning insights, pattern mastery, and Google interview preparation | C++, Data Structures, Algorithms |
+| 🎓 | [**cs-370**](https://github.com/Ashikvk18/cs-370) | Computer Science course assignments and projects for Truman State University CS 370 class | CSS, HTML, JavaScript |
+| � | [**Jarvis-voice-assistance**](https://github.com/Ashikvk18/Jarvis-voice-assistance) | Voice assistant application with speech recognition and natural language processing capabilities | Python, Speech Recognition, NLP |
+| 🐯 | [**AirChess**](https://github.com/Ashikvk18/AirChess) | Revolutionary hand gesture chess game with MediaPipe computer vision, real-time piece control, AI opponent, and 6 beautiful themes | Python, OpenCV, MediaPipe, Computer Vision |
+| 📚 | [**Neetcode-150-By-me**](https://github.com/Ashikvk18/Neetcode-150-By-me) | Detailed analysis with visualization in the readme of each problem - Complete NeetCode 150 solutions with comprehensive explanations | C++, Algorithms, Data Structures, Visualization |
 
 </div>
 
@@ -182,6 +188,7 @@ I'm currently on an epic quest to master the NeetCode 150 problems as I prepare 
 - Document every struggle and breakthrough
 - Build pattern recognition for Google interviews
 - Write all code myself (no copy-paste!)
+>>>>>>> 618db35ee4eb5eeca891e8ffe0abcffd9b601ee4
 
 </div>
 
