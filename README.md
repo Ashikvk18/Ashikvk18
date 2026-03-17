@@ -242,7 +242,7 @@ I'm currently on an epic quest to master the NeetCode 150 problems as I prepare 
 <br />
 
 <!-- GitHub Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashikvk18&bg_color=0d1117&color=8b5cf6&line=f59e0b&point=8b5cf6&area_color=1a0a2e&area=true&hide_border=true&custom_title=⚡%20Contribution%20Timeline" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashikvk18&bg_color=0d1117&color=8b5cf6&line=f59e0b&point=8b5cf6&area_color=1a0a2e&area=true&hide_border=true&custom_title=🚀%20Google%20SWE%20Preparation%20Timeline" alt="Activity Graph" />
 
 <br />
 
