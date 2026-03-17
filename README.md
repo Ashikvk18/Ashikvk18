@@ -142,6 +142,46 @@
 | 🌿 | [**Green Pulse**](https://github.com/Ashikvk18) | AI plant disease detection with image analysis — *TigerHacks Hackers' Choice Award* 🏅 | Java, Spring Boot, Firebase |
 | ⚡ | [**Wizard's Portfolio**](https://github.com/Ashikvk18/portfolio) | Cinematic HP-themed portfolio with CGI canvas, video streaming, synthesized audio | Next.js, TypeScript, Canvas API |
 | 🌍 | [**Video Finder**](https://github.com/Ashikvk18/video-finder) | Comprehensive video search platform with 11,298 videos across 102 performers from 32+ platforms | React, Node.js, PostgreSQL, TypeScript |
+| 🚀 | [**NeetCode 150 - Google SWE Journey**](https://github.com/Ashikvk18/Neetcode-150-By-me) | My comprehensive journey through NeetCode 150 problems - 6/150 completed with detailed learning insights, pattern mastery, and Google interview preparation | C++, Data Structures, Algorithms |
+
+</div>
+
+<br />
+
+## 🚀 Current Quest — Google SWE Preparation
+
+<div align="center">
+
+```
+    🎯 GOOGLE SWE BOUND 🎯
+   ╔═════════════════════════╗
+   ║  6/150 PROBLEMS SOLVED  ║
+   ╚═════════════════════════╝
+        💻 PATTERNS MASTERED 💻
+```
+
+**📚 My NeetCode 150 Journey**
+
+I'm currently on an epic quest to master the NeetCode 150 problems as I prepare for Google SWE interviews. Here's my progress:
+
+- ✅ **6/150 problems completed** (4.0% overall)
+- ✅ **6/21 Arrays & Hashing solved** 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+- ✅ **Mastered 6 critical patterns** for Google interviews
+- ✅ **Detailed learning documentation** with personal insights
+
+**🧠 Patterns I've Conquered:**
+- Hash Set Existence Checking
+- Frequency Counting
+- Complement Detection (Two Sum - Most Important!)
+- String Signature Grouping
+- Sequence Detection with Start Detection
+- 2D Validation with Single Pass Optimization
+
+**📖 My Learning Philosophy:**
+- Go slow, understand deeply
+- Document every struggle and breakthrough
+- Build pattern recognition for Google interviews
+- Write all code myself (no copy-paste!)
 
 </div>
 
