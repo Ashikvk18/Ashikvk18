@@ -52,7 +52,7 @@
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Ashikvk18&style=for-the-badge&color=8b5cf6&label=22+REPOSITORIES&labelColor=1a0a2e" alt="Repositories" />
+<img src="https://komarev.com/ghpvc/?username=Ashikvk18&style=for-the-badge&color=8b5cf6&label=25+REPOSITORIES&labelColor=1a0a2e" alt="Repositories" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Ashikvk18&style=for-the-badge&color=8b5cf6&label=PROFILE+VISITORS" alt="Profile Views" />
 
@@ -79,7 +79,7 @@
 
 #### ⚡ Languages — *Spell Incantations*
 
-<a href="#"><img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,java,kotlin,html,css&theme=dark" alt="Languages" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,java,kotlin,html,css&theme=dark" alt="Languages" /></a>
 
 #### 🏰 Frameworks & Libraries — *Enchanted Artifacts*
 
@@ -87,7 +87,7 @@
 
 #### 🛠️ Tools & Platforms — *Wizard's Workshop*
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,docker,linux,postgres,mysql&theme=dark" alt="Tools" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,docker,linux,postgres,mysql,neetcode&theme=dark" alt="Tools" /></a>
 
 </div>
 
@@ -124,6 +124,18 @@
 </a>
 <a href="https://github.com/Ashikvk18">
   <img src="https://img.shields.io/github/watchers/Ashikvk18?style=social&label=Watchers&maxAge=2592000" alt="Watchers" />
+</a>
+
+<br />
+
+<a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
+  <img src="https://img.shields.io/badge/🚀_NeetCode_150-6%2F150_Problems-8b5cf6?style=for-the-badge&logo=leetcode&labelColor=1a0a2e" />
+</a>
+<a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
+  <img src="https://img.shields.io/badge/🧠_Patterns_Mastered-6_Critical_Patterns-f59e0b?style=for-the-badge&labelColor=1a0a2e" />
+</a>
+<a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
+  <img src="https://img.shields.io/badge/⚡_Google_SWE_Quest-In_Progress-0A66C2?style=for-the-badge&labelColor=1a0a2e" />
 </a>
 
 </div>
