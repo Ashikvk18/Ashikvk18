@@ -52,7 +52,7 @@
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Ashikvk18&style=for-the-badge&color=8b5cf6&label=25+REPOSITORIES&labelColor=1a0a2e" alt="Repositories" />
+<img src="https://img.shields.io/badge/Public%20Repos-6-8b5cf6?style=for-the-badge&labelColor=1a0a2e" alt="Repositories" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Ashikvk18&style=for-the-badge&color=8b5cf6&label=PROFILE+VISITORS" alt="Profile Views" />
 
@@ -129,7 +129,7 @@
 <br />
 
 <a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
-  <img src="https://img.shields.io/badge/🚀_NeetCode_150-9%2F150_Problems-8b5cf6?style=for-the-badge&logo=leetcode&labelColor=1a0a2e" />
+  <img src="https://img.shields.io/badge/🚀_NeetCode_150-10%2F150_Problems-8b5cf6?style=for-the-badge&logo=leetcode&labelColor=1a0a2e" />
 </a>
 <a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
   <img src="https://img.shields.io/badge/🧠_Patterns_Mastered-9_Critical_Patterns-f59e0b?style=for-the-badge&labelColor=1a0a2e" />
@@ -156,7 +156,7 @@
 | 🌿 | [**Green Pulse**](https://github.com/Ashikvk18) | AI plant disease detection with image analysis — *TigerHacks Hackers' Choice Award* 🏅 | Java, Spring Boot, Firebase |
 | ⚡ | [**Wizard's Portfolio**](https://github.com/Ashikvk18/portfolio) | Cinematic HP-themed portfolio with CGI canvas, video streaming, synthesized audio | Next.js, TypeScript, Canvas API |
 | 🌍 | [**Video Finder**](https://github.com/Ashikvk18/video-finder) | Comprehensive video search platform with 11,298 videos across 102 performers from 32+ platforms | React, Node.js, PostgreSQL, TypeScript |
-| 🚀 | [**NeetCode 150 - Google SWE Journey**](https://github.com/Ashikvk18/Neetcode-150-By-me) | My comprehensive journey through NeetCode 150 problems - 6/150 completed with detailed learning insights, pattern mastery, and Google interview preparation | C++, Data Structures, Algorithms |
+| 🚀 | [**NeetCode 150 - Google SWE Journey**](https://github.com/Ashikvk18/Neetcode-150-By-me) | My comprehensive journey through NeetCode 150 problems - 10/150 completed with detailed learning insights, pattern mastery, and Google interview preparation | C++, Data Structures, Algorithms |
 | 🎓 | [**cs-370**](https://github.com/Ashikvk18/cs-370) | Computer Science course assignments and projects for Truman State University CS 370 class | CSS, HTML, JavaScript |
 | � | [**Jarvis-voice-assistance**](https://github.com/Ashikvk18/Jarvis-voice-assistance) | Voice assistant application with speech recognition and natural language processing capabilities | Python, Speech Recognition, NLP |
 | 🐯 | [**AirChess**](https://github.com/Ashikvk18/AirChess) | Revolutionary hand gesture chess game with MediaPipe computer vision, real-time piece control, AI opponent, and 6 beautiful themes | Python, OpenCV, MediaPipe, Computer Vision |
@@ -173,7 +173,7 @@
 ```
     🎯 GOOGLE SWE BOUND 🎯
    ╔═════════════════════════╗
-   ║  9/150 PROBLEMS SOLVED  ║
+   ║  10/150 PROBLEMS SOLVED  ║
    ╚═════════════════════════╝
         💻 PATTERNS MASTERED 💻
 ```
@@ -182,9 +182,9 @@
 
 I'm currently on an epic quest to master the NeetCode 150 problems as I prepare for Google SWE interviews. Here's my progress:
 
-- ✅ **9/150 problems completed** (6.0% overall)
-- ✅ **9/21 Arrays & Hashing solved** 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-- ✅ **Mastered 8 critical patterns** for Google interviews
+- ✅ **10/150 problems completed** (6.7% overall)
+- ✅ **10/21 Arrays & Hashing solved** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+- ✅ **Mastered 9 critical patterns** for Google interviews
 - ✅ **Detailed learning documentation** with personal insights
 
 **🧠 Patterns I've Conquered:**
@@ -203,7 +203,6 @@ I'm currently on an epic quest to master the NeetCode 150 problems as I prepare 
 - Document every struggle and breakthrough
 - Build pattern recognition for Google interviews
 - Write all code myself (no copy-paste!)
->>>>>>> 618db35ee4eb5eeca891e8ffe0abcffd9b601ee4
 
 </div>
 
