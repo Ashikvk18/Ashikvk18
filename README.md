@@ -129,10 +129,10 @@
 <br />
 
 <a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
-  <img src="https://img.shields.io/badge/🚀_NeetCode_150-8%2F150_Problems-8b5cf6?style=for-the-badge&logo=leetcode&labelColor=1a0a2e" />
+  <img src="https://img.shields.io/badge/🚀_NeetCode_150-9%2F150_Problems-8b5cf6?style=for-the-badge&logo=leetcode&labelColor=1a0a2e" />
 </a>
 <a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
-  <img src="https://img.shields.io/badge/🧠_Patterns_Mastered-8_Critical_Patterns-f59e0b?style=for-the-badge&labelColor=1a0a2e" />
+  <img src="https://img.shields.io/badge/🧠_Patterns_Mastered-9_Critical_Patterns-f59e0b?style=for-the-badge&labelColor=1a0a2e" />
 </a>
 <a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
   <img src="https://img.shields.io/badge/⚡_Google_SWE_Quest-In_Progress-0A66C2?style=for-the-badge&labelColor=1a0a2e" />
@@ -173,7 +173,7 @@
 ```
     🎯 GOOGLE SWE BOUND 🎯
    ╔═════════════════════════╗
-   ║  8/150 PROBLEMS SOLVED  ║
+   ║  9/150 PROBLEMS SOLVED  ║
    ╚═════════════════════════╝
         💻 PATTERNS MASTERED 💻
 ```
@@ -182,9 +182,9 @@
 
 I'm currently on an epic quest to master the NeetCode 150 problems as I prepare for Google SWE interviews. Here's my progress:
 
-- ✅ **8/150 problems completed** (5.3% overall)
-- ✅ **8/21 Arrays & Hashing solved** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-- ✅ **Mastered 7 critical patterns** for Google interviews
+- ✅ **9/150 problems completed** (6.0% overall)
+- ✅ **9/21 Arrays & Hashing solved** 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+- ✅ **Mastered 8 critical patterns** for Google interviews
 - ✅ **Detailed learning documentation** with personal insights
 
 **🧠 Patterns I've Conquered:**
@@ -196,6 +196,7 @@ I'm currently on an epic quest to master the NeetCode 150 problems as I prepare 
 - 2D Validation with Single Pass Optimization
 - Frequency Counting + Sorting (Top K Pattern)
 - Serialization/Deserialization (String Encoding)
+- Two-Pass Algorithm (Prefix/Suffix Products)
 
 **📖 My Learning Philosophy:**
 - Go slow, understand deeply
