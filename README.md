@@ -73,6 +73,11 @@
 🔮 Fun fact: My portfolio has a Hogwarts castle rendered in HTML5 Canvas at 60fps
 ```
 
+- 🔭 Currently working on: **Cinematic HP-themed portfolio** with CGI effects & video streaming
+- 🌱 Currently learning: **System Design, AI/ML, and Advanced Networking**
+- 👯 Looking to collaborate on: **AI projects, hackathons, and open-source wizardry**
+- 💬 Ask me about: **Full-Stack Development, Computer Vision, or Harry Potter lore**
+
 <br />
 
 <div align="center">
@@ -125,6 +130,13 @@
 <a href="https://github.com/Ashikvk18">
   <img src="https://img.shields.io/github/watchers/Ashikvk18?style=social&label=Watchers&maxAge=2592000" alt="Watchers" />
 </a>
+
+<br />
+<br />
+
+#### 🏆 House Cup Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashikvk18&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="95%" />
 
 </div>
 
@@ -197,6 +209,13 @@
 <!-- 3D Contribution Calendar -->
 <img src="https://raw.githubusercontent.com/Ashikvk18/Ashikvk18/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="95%" />
 
+<br />
+<br />
+
+#### 🔝 Top Contributed Repos
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Ashikvk18&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Top Contributed Repos" width="45%" />
+
 </div>
 
 <br />
@@ -216,6 +235,20 @@
     ♟️ WIZARD CHESS CHAMPION ♟️
   </pre>
 </div>
+
+## ⚡ Recent Spellcasting — GitHub Activity
+<div align="center">
+
+<!--START_SECTION:activity-->
+1. No recent activity
+<!--END_SECTION:activity-->
+
+</div>
+
+<br />
+
+<!-- ═════════════════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🐍 The Chamber — Contribution Snake
 <div align="center">
