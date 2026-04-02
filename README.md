@@ -11,13 +11,13 @@
 
 <div align="center">
   <pre>
-�🪄 *~* HOGWARTS GAMING EXPERIENCE *~* 🪄�
+🪄 *~* HOGWARTS GAMING EXPERIENCE *~* 🪄
     ⭐ PLAYER 1 ⭐
   🎯 ASHIK DEY RUPAK
-    � GAME DEVELOPER �
+    🎮 GAME DEVELOPER 🎮
   💻 CODE WIZARDRY
     🎶 MAGICAL SOUNDTRACK 🎶
-  � HOUSE CUP WINNER 🏆
+  🏆 HOUSE CUP WINNER 🏆
     🪄 LEVEL 100 WIZARD 🪄
   </pre>
 </div>
@@ -87,7 +87,7 @@
 
 #### 🛠️ Tools & Platforms — *Wizard's Workshop*
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,docker,linux,postgres,mysql,neetcode&theme=dark" alt="Tools" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,docker,linux,postgres,mysql&theme=dark" alt="Tools" /></a>
 
 </div>
 
@@ -126,23 +126,14 @@
   <img src="https://img.shields.io/github/watchers/Ashikvk18?style=social&label=Watchers&maxAge=2592000" alt="Watchers" />
 </a>
 
-<br />
-
-<a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
-  <img src="https://img.shields.io/badge/🚀_NeetCode_150-10%2F150_Problems-8b5cf6?style=for-the-badge&logo=leetcode&labelColor=1a0a2e" />
-</a>
-<a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
-  <img src="https://img.shields.io/badge/🧠_Patterns_Mastered-9_Critical_Patterns-f59e0b?style=for-the-badge&labelColor=1a0a2e" />
-</a>
-<a href="https://github.com/Ashikvk18/Neetcode-150-By-me">
-  <img src="https://img.shields.io/badge/⚡_Google_SWE_Quest-In_Progress-0A66C2?style=for-the-badge&labelColor=1a0a2e" />
-</a>
-
 </div>
 
 </div>
 
 <br />
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🏆 Featured Enchantments — Projects
 
@@ -156,53 +147,9 @@
 | 🌿 | [**Green Pulse**](https://github.com/Ashikvk18) | AI plant disease detection with image analysis — *TigerHacks Hackers' Choice Award* 🏅 | Java, Spring Boot, Firebase |
 | ⚡ | [**Wizard's Portfolio**](https://github.com/Ashikvk18/portfolio) | Cinematic HP-themed portfolio with CGI canvas, video streaming, synthesized audio | Next.js, TypeScript, Canvas API |
 | 🌍 | [**Video Finder**](https://github.com/Ashikvk18/video-finder) | Comprehensive video search platform with 11,298 videos across 102 performers from 32+ platforms | React, Node.js, PostgreSQL, TypeScript |
-| 🚀 | [**NeetCode 150 - Google SWE Journey**](https://github.com/Ashikvk18/Neetcode-150-By-me) | My comprehensive journey through NeetCode 150 problems - 10/150 completed with detailed learning insights, pattern mastery, and Google interview preparation | C++, Data Structures, Algorithms |
 | 🎓 | [**cs-370**](https://github.com/Ashikvk18/cs-370) | Computer Science course assignments and projects for Truman State University CS 370 class | CSS, HTML, JavaScript |
-| � | [**Jarvis-voice-assistance**](https://github.com/Ashikvk18/Jarvis-voice-assistance) | Voice assistant application with speech recognition and natural language processing capabilities | Python, Speech Recognition, NLP |
+| 🤖 | [**Jarvis-voice-assistance**](https://github.com/Ashikvk18/Jarvis-voice-assistance) | Voice assistant application with speech recognition and natural language processing capabilities | Python, Speech Recognition, NLP |
 | 🐯 | [**AirChess**](https://github.com/Ashikvk18/AirChess) | Revolutionary hand gesture chess game with MediaPipe computer vision, real-time piece control, AI opponent, and 6 beautiful themes | Python, OpenCV, MediaPipe, Computer Vision |
-| 📚 | [**Neetcode-150-By-me**](https://github.com/Ashikvk18/Neetcode-150-By-me) | Detailed analysis with visualization in the readme of each problem - Complete NeetCode 150 solutions with comprehensive explanations | C++, Algorithms, Data Structures, Visualization |
-
-</div>
-
-<br />
-
-## 🚀 Current Quest — Google SWE Preparation
-
-<div align="center">
-
-```
-    🎯 GOOGLE SWE BOUND 🎯
-   ╔═════════════════════════╗
-   ║  10/150 PROBLEMS SOLVED  ║
-   ╚═════════════════════════╝
-        💻 PATTERNS MASTERED 💻
-```
-
-**📚 My NeetCode 150 Journey**
-
-I'm currently on an epic quest to master the NeetCode 150 problems as I prepare for Google SWE interviews. Here's my progress:
-
-- ✅ **10/150 problems completed** (6.7% overall)
-- ✅ **10/21 Arrays & Hashing solved** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-- ✅ **Mastered 9 critical patterns** for Google interviews
-- ✅ **Detailed learning documentation** with personal insights
-
-**🧠 Patterns I've Conquered:**
-- Hash Set Existence Checking
-- Frequency Counting
-- Complement Detection (Two Sum - Most Important!)
-- String Signature Grouping
-- Sequence Detection with Start Detection
-- 2D Validation with Single Pass Optimization
-- Frequency Counting + Sorting (Top K Pattern)
-- Serialization/Deserialization (String Encoding)
-- Two-Pass Algorithm (Prefix/Suffix Products)
-
-**📖 My Learning Philosophy:**
-- Go slow, understand deeply
-- Document every struggle and breakthrough
-- Build pattern recognition for Google interviews
-- Write all code myself (no copy-paste!)
 
 </div>
 
@@ -225,7 +172,6 @@ I'm currently on an epic quest to master the NeetCode 150 problems as I prepare 
 </div>
 
 ## 🧠 The Pensieve — GitHub Stats
-
 <div align="center">
 
 <!-- Animated stat cards with hover glow effect -->
@@ -244,7 +190,7 @@ I'm currently on an epic quest to master the NeetCode 150 problems as I prepare 
 <br />
 
 <!-- GitHub Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashikvk18&bg_color=0d1117&color=8b5cf6&line=f59e0b&point=8b5cf6&area_color=1a0a2e&area=true&hide_border=true&custom_title=🚀%20Google%20SWE%20Preparation%20Timeline" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashikvk18&bg_color=0d1117&color=8b5cf6&line=f59e0b&point=8b5cf6&area_color=1a0a2e&area=true&hide_border=true&custom_title=🚀%20Contribution%20Timeline" alt="Activity Graph" />
 
 <br />
 
@@ -272,7 +218,6 @@ I'm currently on an epic quest to master the NeetCode 150 problems as I prepare 
 </div>
 
 ## 🐍 The Chamber — Contribution Snake
-
 <div align="center">
 
 <picture>
@@ -291,7 +236,6 @@ I'm currently on an epic quest to master the NeetCode 150 problems as I prepare 
 <div align="center">
 
 ## 🎵 Currently Listening To
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qhknkd6iqusm3lfadofbqbxk6m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&bar_color=8b5cf6&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
@@ -303,7 +247,6 @@ I'm currently on an epic quest to master the NeetCode 150 problems as I prepare 
 <div align="center">
 
 ## 🤝 Let's Connect
-
 *Open to collaborations, hackathons, and building magical things together.*
 <br />
 
@@ -330,14 +273,14 @@ I'm currently on an epic quest to master the NeetCode 150 problems as I prepare 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
   <pre>
-�🔥 *~* TRIWIZARD TOURNAMENT *~* 🔥�
-    � GRYFFINDOR CHAMPION �
+🔥 *~* TRIWIZARD TOURNAMENT *~* 🔥
+    🏆 GRYFFINDOR CHAMPION 🏆
   🔥 DRAGON CHALLENGE 🔥
-    � HARRY POTTER WINS �
+    ⚡ HARRY POTTER WINS ⚡
   🔥 CEDRIC'S BRAVERY 🔥
-    � TRIWIZARD CUP �
+    🏆 TRIWIZARD CUP 🏆
   🔥 MAGICAL TRIALS 🔥
-    � HOGWARTS VICTORY �
+    ⚡ HOGWARTS VICTORY ⚡
   </pre>
 </div>
 
