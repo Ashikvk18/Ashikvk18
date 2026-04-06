@@ -240,7 +240,7 @@
 <div align="center">
 
 <!--START_SECTION:activity-->
-1. No recent activity
+1. 🎉 Merged PR [#1](https://github.com/checking31418/hello/pull/1) in [checking31418/hello](https://github.com/checking31418/hello)
 <!--END_SECTION:activity-->
 
 </div>
