@@ -9,19 +9,6 @@
 
 <br />
 
-<div align="center">
-  <pre>
-🪄 *~* HOGWARTS GAMING EXPERIENCE *~* 🪄
-    ⭐ PLAYER 1 ⭐
-  🎯 ASHIK DEY RUPAK
-    🎮 GAME DEVELOPER 🎮
-  💻 CODE WIZARDRY
-    🎶 MAGICAL SOUNDTRACK 🎶
-  🏆 HOUSE CUP WINNER 🏆
-    🪄 LEVEL 100 WIZARD 🪄
-  </pre>
-</div>
-
 <br />
 
 <img width="60" src="https://img.icons8.com/color/96/harry-potter.png" alt="HP" />
@@ -73,10 +60,10 @@
 🔮 Fun fact: My portfolio has a Hogwarts castle rendered in HTML5 Canvas at 60fps
 ```
 
-- 🔭 Currently working on: **Cinematic HP-themed portfolio** with CGI effects & video streaming
+- 🔭 Currently working on: CGI effects & video streaming
 - 🌱 Currently learning: **System Design, AI/ML, and Advanced Networking**
 - 👯 Looking to collaborate on: **AI projects, hackathons, and open-source wizardry**
-- 💬 Ask me about: **Full-Stack Development, Computer Vision, or Harry Potter lore**
+- 💬 Ask me about: **Full-Stack Development, Computer Vision
 
 <br />
 
@@ -101,18 +88,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<div align="center">
-  <pre>
-🏐⚡️ *~* QUIDDITCH WORLD CUP *~* ⚡️🏐
-    🧹⚡️ SEEKER CATCHES SNITCH ⚡️🧹
-  🏆 GRYFFINDOR WINS 🏆
-    🦅 GOLDEN SNITCH FLIES 🦅
-  🧹⚡️ BROOMSTICK RACING 🧹⚡️
-    🏐 HOUSE CUP VICTORY 🏐
-  ⚡️ 150 POINTS WINNER ⚡️
-    🦅 CATCH ME IF YOU CAN 🦅
-  </pre>
-</div>
 
 <!-- ⚡ Achievement Showcase -->
 <div align="center">
