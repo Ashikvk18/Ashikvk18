@@ -198,18 +198,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<div align="center">
-  <pre>
-♟️🏰 *~* WIZARD'S CHESS BATTLE *~* ♟️🏰
-    ♟️ KING TO E8 ♟️
-  🏰 QUEEN TAKES ROOK 🏰
-    ♟️ CHECKMATE IN 3 ♟️
-  🧙 RON'S BRILLIANT MOVE 🧙
-    ♟️ HARRY STRATEGIZES ♟️
-  🏰 CHESS MASTER WINS 🏰
-    ♟️ WIZARD CHESS CHAMPION ♟️
-  </pre>
-</div>
 
 ## ⚡ Recent Spellcasting — GitHub Activity
 <div align="center">
