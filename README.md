@@ -186,7 +186,7 @@
 <div align="center">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#299](https://github.com/vagabond-systems/forage-midas/pull/299#issuecomment-4917964402) in [vagabond-systems/forage-midas](https://github.com/vagabond-systems/forage-midas)
+1. 💪 Opened PR [#97](https://github.com/insidesherpa/shiptivitas-1/pull/97) in [insidesherpa/shiptivitas-1](https://github.com/insidesherpa/shiptivitas-1)
 <!--END_SECTION:activity-->
 
 </div>
