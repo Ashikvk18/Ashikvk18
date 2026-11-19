@@ -281,13 +281,14 @@ open to collaborations, hackathons, and open-source wizardry.*
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,25:8b5cf6,50:4a1942,75:2d1b69,100:1a0a2e&height=150&section=footer&text=⚡%20Mischief%20Managed%20⚡&fontSize=24&fontColor=f5f5f5&animation=fadeIn&fontAlignY=65&descColor=d4a574" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,25:8b5cf6,50:4a1942,75:2d1b69,100:1a0a2e&height=150&section=footer&text=⚡%20Mischief%20Managed%20⚡&fontSize=24&fontColor=f5f5f5&animation=fadeIn&fontAlignY=65&descColor=d4a574" loading="lazy" alt="Footer" />
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
