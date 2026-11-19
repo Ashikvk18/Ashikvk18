@@ -157,6 +157,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <br />
 
 <!-- Productive time card -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashikvk18&theme=dark" alt="Productive Time" />
 
 <br />
 
@@ -270,6 +271,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
