@@ -238,6 +238,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <div align="center">
 
 ## 🤝 Let's Connect
+
 *Open to collaborations, hackathons, and building magical things together.*
 <br />
 
