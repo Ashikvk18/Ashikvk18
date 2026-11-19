@@ -255,6 +255,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <br />
 <br />
 
+<img src="https://img.shields.io/github/followers/Ashikvk18?style=for-the-badge&color=8b5cf6&labelColor=1a0a2e&label=Followers" alt="Followers" />
 
 </div>
 
