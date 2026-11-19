@@ -148,7 +148,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <br />
 
 <!-- Top languages -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikvk18&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikvk18&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" loading="lazy" alt="Top Languages" />
 <br />
 <br />
 
@@ -272,6 +272,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
