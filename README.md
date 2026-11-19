@@ -173,6 +173,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 
 
 ## ⚡ Recent Spellcasting — GitHub Activity
+
 <div align="center">
 
 <!--START_SECTION:activity-->
