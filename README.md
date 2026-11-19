@@ -157,7 +157,6 @@ open to collaborations, hackathons, and open-source wizardry.*
 <br />
 
 <!-- Productive time card -->
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashikvk18&show=reviews,prs_merged,prs_merged_percentage&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=f59e0b&text_color=c9d1d9&ring_color=8b5cf6" alt="Achievement Stats" />
 
 <br />
 
@@ -271,6 +270,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
