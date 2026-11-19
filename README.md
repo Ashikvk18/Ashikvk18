@@ -136,7 +136,6 @@ open to collaborations, hackathons, and open-source wizardry.*
 
 <div align="center">
 
-<!-- Animated stat cards with hover glow effect -->
 <a href="https://github.com/Ashikvk18">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashikvk18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=f59e0b&text_color=c9d1d9&ring_color=8b5cf6" alt="GitHub Stats" />
 </a>
