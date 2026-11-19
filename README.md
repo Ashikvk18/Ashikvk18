@@ -39,7 +39,7 @@
 
 <img src="https://img.shields.io/badge/Public%20Repos-36-8b5cf6?style=for-the-badge&labelColor=1a0a2e" loading="lazy" alt="Repositories" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Ashikvk18&style=for-the-badge&color=8b5cf6&label=PROFILE+VISITORS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ashikvk18&style=for-the-badge&color=8b5cf6&label=PROFILE+VISITORS" loading="lazy" alt="Profile Views" />
 
 </div>
 
@@ -288,6 +288,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" />
 
 </div>
+
 
 
 
