@@ -237,6 +237,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <br />
 
 🎧 *Vibing to music — live Spotify widget re-linking soon*
+
 </div>
 
 <br />
@@ -280,6 +281,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
