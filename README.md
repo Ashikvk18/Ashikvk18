@@ -58,7 +58,6 @@
 🔮 Fun fact: My portfolio has a Hogwarts castle rendered in HTML5 Canvas at 60fps
 ```
 
-- 🔭 Currently working on: CGI effects & video streaming
 - 🌱 Currently learning: **System Design, AI/ML, and Advanced Networking**
 - 👯 Looking to collaborate on: **AI projects, hackathons, and open-source wizardry**
 - 💬 Ask me about: **Full-Stack Development, Computer Vision
