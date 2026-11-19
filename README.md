@@ -249,6 +249,7 @@ open to collaborations, hackathons, and open-source wizardry.*
   <img src="https://img.shields.io/badge/LinkedIn-Ashik_Dey_Rupak-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a0a2e" alt="LinkedIn" />
 </a>
 <a href="mailto:ashikdeyrupak@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ashikdeyrupak@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0a2e" alt="Email" />
 </a>
 
 <br />
