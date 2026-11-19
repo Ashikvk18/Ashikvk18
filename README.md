@@ -61,7 +61,6 @@
 - 🔭 Currently working on: **CGI effects, video streaming & AI-powered web apps**
 - 🌱 Currently learning: **System Design, AI/ML, and Advanced Networking**
 - 👯 Looking to collaborate on: **AI projects, hackathons, and open-source wizardry**
-- 💬 Ask me about: **Full-Stack Development, Computer Vision
 
 <br />
 
