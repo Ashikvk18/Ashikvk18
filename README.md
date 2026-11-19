@@ -17,7 +17,7 @@
 
 <!-- ⚡ Animated typing effect -->
 <a href="https://github.com/Ashikvk18">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9C%A8+I+solemnly+swear+that+I+am+up+to+no+good.;%F0%9F%AA%84+Mischief+Managed+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9C%A8+I+solemnly+swear+that+I+am+up+to+no+good.;%F0%9F%AA%84+Mischief+Managed+%E2%9A%A1" loading="lazy" alt="Typing SVG" />
 </a>
 
 <br />
@@ -288,6 +288,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
