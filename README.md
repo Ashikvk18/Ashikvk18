@@ -27,7 +27,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ashik-dey-rupak-b71450241/">
-  <img src="https://img.shields.io/badge/🧙_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a0a2e" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/🧙_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a0a2e" loading="lazy" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:ashikdeyrupak@gmail.com">
@@ -288,6 +288,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" />
 
 </div>
+
 
 
 
