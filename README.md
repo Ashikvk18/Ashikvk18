@@ -5,7 +5,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,25:2d1b69,50:4a1942,75:8b5cf6,100:f59e0b&height=220&section=header&text=⚡%20Ashik%20Dey%20Rupak%20⚡&fontSize=40&fontColor=f5f5f5&animation=fadeIn&fontAlignY=35&desc=CS%20Wizard%20%7C%20Full-Stack%20Developer%20%7C%20Builder%20of%20Magical%20Things&descSize=15&descAlignY=55&descColor=d4a574" loading="lazy" alt="Header" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" loading="lazy" alt="separator" />
 
 <br />
 
@@ -288,6 +288,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
