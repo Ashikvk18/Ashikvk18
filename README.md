@@ -23,7 +23,7 @@
 <br />
 
 <a href="https://ashik-portfolio-g7fz.onrender.com/">
-  <img src="https://img.shields.io/badge/🔮_Portfolio-Enter_the_Wizarding_World-8b5cf6?style=for-the-badge&labelColor=1a0a2e" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🔮_Portfolio-Enter_the_Wizarding_World-8b5cf6?style=for-the-badge&labelColor=1a0a2e" loading="lazy" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ashik-dey-rupak-b71450241/">
@@ -288,6 +288,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" />
 
 </div>
+
 
 
 
