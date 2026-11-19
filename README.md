@@ -163,7 +163,6 @@ open to collaborations, hackathons, and open-source wizardry.*
 
 <!-- 3D Contribution Calendar -->
 <img src="https://raw.githubusercontent.com/Ashikvk18/Ashikvk18/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="95%" />
-<br />
 
 #### 🔝 Top Contributed Repos
 
