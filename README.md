@@ -153,7 +153,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <br />
 
 <!-- GitHub Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashikvk18&bg_color=0d1117&color=8b5cf6&line=f59e0b&point=8b5cf6&area_color=1a0a2e&area=true&hide_border=true&custom_title=🚀%20Contribution%20Timeline" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashikvk18&bg_color=0d1117&color=8b5cf6&line=f59e0b&point=8b5cf6&area_color=1a0a2e&area=true&hide_border=true&custom_title=🚀%20Contribution%20Timeline" loading="lazy" alt="Activity Graph" />
 
 <br />
 
@@ -272,6 +272,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
