@@ -72,6 +72,7 @@
 
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,java,kotlin,html,css&theme=dark" alt="Languages" /></a>
 
+<!-- Frameworks -->
 #### 🏰 Frameworks & Libraries — *Enchanted Artifacts*
 
 <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,flask,spring,tailwind,nodejs,express,opencv,mediapipe&theme=dark" alt="Frameworks" /></a>
