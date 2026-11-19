@@ -163,7 +163,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <br />
 
 <!-- 3D Contribution Calendar -->
-<img src="https://raw.githubusercontent.com/Ashikvk18/Ashikvk18/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="95%" />
+<img src="https://raw.githubusercontent.com/Ashikvk18/Ashikvk18/main/profile-3d-contrib/profile-night-rainbow.svg" loading="lazy" alt="3D Contributions" width="95%" />
 
 </div>
 
@@ -288,6 +288,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
