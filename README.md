@@ -86,7 +86,6 @@
 
 <br />
 
-## 🏆 Projects
 
 <div align="center">
 
