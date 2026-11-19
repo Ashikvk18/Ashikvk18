@@ -116,6 +116,7 @@
 | | |
 |:-:|:--|
 | 🎓 | **B.S. Computer Science** — Truman State University (Class of 2026) |
+| 🔬 | **Capstone Research** — survey data analysis, ML pipelines & verification tooling |
 
 ## 🧠 The Pensieve — GitHub Stats
 <div align="center">
