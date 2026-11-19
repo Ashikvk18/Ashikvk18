@@ -122,6 +122,7 @@
 
 <br />
 
+*Currently leveling up in **system design, AI/ML, and advanced networking** —
 
 ## 🧠 The Pensieve — GitHub Stats
 <div align="center">
