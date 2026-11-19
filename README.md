@@ -98,7 +98,6 @@
 | 💼 | [**HireLens**](https://github.com/Ashikvk18/hirelens) | AI-powered job intelligence platform — resume analysis, job search, cover letters & interview prep | Next.js, React, TypeScript, Supabase, Groq |
 | 🎯 | [**CareerCraft**](https://github.com/Ashikvk18/CareerCraft) | AI-powered career coach platform for students and early-career developers | AI, Full-Stack |
 | ⚡ | [**Wizard's Portfolio**](https://github.com/Ashikvk18/portfolio) | Cinematic HP-themed portfolio with CGI canvas, video streaming, synthesized audio | Next.js, TypeScript, Canvas API |
-| 🌍 | [**Video Finder**](https://github.com/Ashikvk18/video-finder) | Comprehensive video search platform with 11,298 videos across 102 performers from 32+ platforms | React, Node.js, PostgreSQL, TypeScript |
 | 🎓 | [**cs-370**](https://github.com/Ashikvk18/cs-370) | Computer Science course assignments and projects for Truman State University CS 370 class | CSS, HTML, JavaScript |
 | 🤖 | [**Jarvis-voice-assistance**](https://github.com/Ashikvk18/Jarvis-voice-assistance) | Voice assistant application with speech recognition and natural language processing capabilities | Python, Speech Recognition, NLP |
 | 🐯 | [**AirChess**](https://github.com/Ashikvk18/AirChess) | Revolutionary hand gesture chess game with MediaPipe computer vision, real-time piece control, AI opponent, and 6 beautiful themes | Python, OpenCV, MediaPipe, Computer Vision |
