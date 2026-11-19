@@ -115,6 +115,7 @@
 
 | | |
 |:-:|:--|
+| 🎓 | **B.S. Computer Science** — Truman State University (Class of 2026) |
 
 ## 🧠 The Pensieve — GitHub Stats
 <div align="center">
