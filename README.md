@@ -241,6 +241,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <br />
 
 <a href="https://open.spotify.com/user/31qhknkd6iqusm3lfadofbqbxk6m">
+  <img src="https://img.shields.io/badge/🎵_Spotify-Open_my_profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a0a2e" alt="Spotify" />
 </div>
 
 <br />
@@ -284,6 +285,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
