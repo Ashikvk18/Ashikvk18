@@ -285,7 +285,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" />
 
 </div>
 
