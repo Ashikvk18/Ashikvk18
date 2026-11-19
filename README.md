@@ -273,7 +273,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <br />
 
 <img src="https://img.shields.io/github/followers/Ashikvk18?style=for-the-badge&color=8b5cf6&labelColor=1a0a2e&label=Followers" loading="lazy" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Ashikvk18?style=for-the-badge&color=f59e0b&labelColor=1a0a2e&label=Total%20Stars&affiliations=OWNER" alt="Stars" />
+<img src="https://img.shields.io/github/stars/Ashikvk18?style=for-the-badge&color=f59e0b&labelColor=1a0a2e&label=Total%20Stars&affiliations=OWNER" loading="lazy" alt="Stars" />
 
 </div>
 
@@ -288,6 +288,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" loading="lazy" />
 
 </div>
+
 
 
 
