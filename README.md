@@ -9,7 +9,7 @@
 
 <br />
 
-<img width="60" src="https://img.icons8.com/color/96/harry-potter.png" alt="HP" />
+<img width="60" src="https://img.icons8.com/color/96/harry-potter.png" loading="lazy" alt="HP" />
 &nbsp;&nbsp;
 <img width="50" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub Octocat" />
 
@@ -288,6 +288,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
