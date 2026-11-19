@@ -123,6 +123,7 @@
 <br />
 
 *Currently leveling up in **system design, AI/ML, and advanced networking** —
+open to collaborations, hackathons, and open-source wizardry.*
 
 ## 🧠 The Pensieve — GitHub Stats
 <div align="center">
