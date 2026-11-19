@@ -48,7 +48,7 @@
 
 ## 🗺️ The Marauder's Map — About Me
 
-<img align="right" width="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding wizard" />
+<img align="right" width="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" loading="lazy" alt="Coding wizard" />
 
 ```
 🏰 Computer Science student at Truman State University (Class of 2026)
@@ -288,6 +288,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> *"After all this time?" — "Always."* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 
 </div>
+
 
 
 
