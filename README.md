@@ -118,6 +118,7 @@
 | 🎓 | **B.S. Computer Science** — Truman State University (Class of 2026) |
 | 🔬 | **Capstone Research** — survey data analysis, ML pipelines & verification tooling |
 | 🏆 | **Hackathon Winner** — TigerHacks Hackers' Choice Award |
+| ⚡ | **Current Quest** — Google SWE interview preparation & system design |
 
 ## 🧠 The Pensieve — GitHub Stats
 <div align="center">
