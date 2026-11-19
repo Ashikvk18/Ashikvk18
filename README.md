@@ -127,6 +127,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 
 </div>
 
+<br />
 
 ## 🧠 The Pensieve — GitHub Stats
 <div align="center">
