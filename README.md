@@ -31,6 +31,7 @@
 </a>
 &nbsp;
 <a href="mailto:ashikdeyrupak@gmail.com">
+  <img src="https://img.shields.io/badge/📬_Email-Owl_Post-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0a2e" alt="Email" />
 </a>
 
 <br />
