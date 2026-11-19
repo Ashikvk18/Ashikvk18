@@ -163,7 +163,6 @@ open to collaborations, hackathons, and open-source wizardry.*
 
 <!-- 3D Contribution Calendar -->
 <img src="https://raw.githubusercontent.com/Ashikvk18/Ashikvk18/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="95%" />
-
 <img src="https://github-contributor-stats.vercel.app/api?username=Ashikvk18&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Top Contributed Repos" width="45%" />
 
 </div>
