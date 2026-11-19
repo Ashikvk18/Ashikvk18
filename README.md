@@ -192,6 +192,7 @@ open to collaborations, hackathons, and open-source wizardry.*
 <div align="center">
 
 - 🧵 [**ThreadForge**](https://github.com/Ashikvk18/ThreadForge) — threading & concurrency playground
+- 🌐 [**sigma-web-dev**](https://github.com/Ashikvk18/sigma-web-dev) — Sigma web development course projects
 <!-- ═════════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
