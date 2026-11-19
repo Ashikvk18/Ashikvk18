@@ -77,6 +77,7 @@
 
 <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,flask,spring,tailwind,nodejs,express,opencv,mediapipe&theme=dark" alt="Frameworks" /></a>
 
+<!-- Tools -->
 #### 🛠️ Tools & Platforms — *Wizard's Workshop*
 
 <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,docker,linux,postgres,mysql&theme=dark" alt="Tools" /></a>
