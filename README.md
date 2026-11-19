@@ -27,7 +27,6 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ashik-dey-rupak-b71450241/">
-  <img src="https://img.shields.io/badge/🧙_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a0a2e" />
 </a>
 &nbsp;
 <a href="mailto:ashikdeyrupak@gmail.com">
