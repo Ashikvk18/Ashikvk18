@@ -94,7 +94,6 @@
 |:-:|:--------|:------------|:-----|
 | 🌐 | [**Deep Packet Inspection**](https://github.com/Ashikvk18/DPI) | Network security tool with TLS SNI extraction, threat detection, bandwidth monitoring & real-time web dashboard | C++, Networking, Multithreading |
 | 🧠 | [**Scam Call Analysis**](https://github.com/Ashikvk18/scam-call-ml) | ML research analyzing scam patterns with Logistic Regression, TF-IDF NLP, Streamlit app & IEEE paper | Python, Scikit-learn, NLP, LaTeX |
-| 🌿 | [**Green Pulse**](https://github.com/Ashikvk18) | AI plant disease detection with image analysis — *TigerHacks Hackers' Choice Award* 🏅 | Java, Spring Boot, Firebase |
 | ⚡ | [**Wizard's Portfolio**](https://github.com/Ashikvk18/portfolio) | Cinematic HP-themed portfolio with CGI canvas, video streaming, synthesized audio | Next.js, TypeScript, Canvas API |
 | 🌍 | [**Video Finder**](https://github.com/Ashikvk18/video-finder) | Comprehensive video search platform with 11,298 videos across 102 performers from 32+ platforms | React, Node.js, PostgreSQL, TypeScript |
 | 🎓 | [**cs-370**](https://github.com/Ashikvk18/cs-370) | Computer Science course assignments and projects for Truman State University CS 370 class | CSS, HTML, JavaScript |
