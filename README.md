@@ -67,6 +67,7 @@
 
 <div align="center">
 
+<!-- Languages -->
 #### ⚡ Languages — *Spell Incantations*
 
 <a href="#"><img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,java,kotlin,html,css&theme=dark" alt="Languages" /></a>
