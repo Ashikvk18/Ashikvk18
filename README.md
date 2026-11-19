@@ -92,7 +92,6 @@
 
 | | Project | Description | Tech |
 |:-:|:--------|:------------|:-----|
-|️ | [**Deep Packet Inspection**](https://github.com/Ashikvk18/DPI) | Network security tool with TLS SNI extraction, threat detection, bandwidth monitoring & real-time web dashboard | C++, Networking, Multithreading |
 | 🧠 | [**Scam Call Analysis**](https://github.com/Ashikvk18/scam-call-ml) | ML research analyzing scam patterns with Logistic Regression, TF-IDF NLP, Streamlit app & IEEE paper | Python, Scikit-learn, NLP, LaTeX |
 |️ | [**Truman Rec Center AI**](https://github.com/Ashikvk18) | Full-stack platform with AI chatbot, fitness calculators & personalized workout generation | Flask, REST APIs, JWT, Anthropic API |
 | 🌿 | [**Green Pulse**](https://github.com/Ashikvk18) | AI plant disease detection with image analysis — *TigerHacks Hackers' Choice Award* 🏅 | Java, Spring Boot, Firebase |
